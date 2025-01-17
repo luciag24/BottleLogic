@@ -9,4 +9,9 @@ BottleLogic is a console-based application written in Java, designed to simulate
 
 ## About This Version:
 This project is my personalized implementation of a concept that already exists in recycling machines. It serves as an educational exercise to explore OOP principles and simulate real-world functionality.
-![BottleLogic Demo](bottlelogic-demo.gif)
+
+# BottleLogic - Console-Based Recycling System
+
+![BottleLogic Demo](BottleLogic%20Demo.gif)
+
+BottleLogic is a console-based application written in Java, designed to simulate the collection and ecological processing of plastic bottles and aluminum cans. This project represents my first Object-Oriented Programming (OOP) application in Java.
