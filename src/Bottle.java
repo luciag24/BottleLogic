@@ -1,7 +1,7 @@
 /**
  * Represents a recyclable bottle.
  */
-public class Bottle extends RecyclableItem {
+public class Bottle extends AbstractRecyclableItem {
 
     private static final double MIN_VOLUME = 250.0; // Minimum volume in milliliters
     private static final double MAX_VOLUME = 2000.0; // Maximum volume in milliliters

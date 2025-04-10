@@ -1,16 +1,4 @@
 /**
- * Interface representing a recyclable item that can be accepted by the BottleLogic machine.
- */
-public interface RecyclableItem {
-    String getBarcode();
-    double getWeight();
-    double getVolume();
-    boolean isValidItem();
-    boolean isValidVolume();
-    void compress();
-}
-
-/**
  * Abstract base class implementing common functionality for recyclable items.
  */
 public abstract class AbstractRecyclableItem implements RecyclableItem {
@@ -69,6 +57,4 @@ public abstract class AbstractRecyclableItem implements RecyclableItem {
     public abstract boolean isValidVolume();
 
     public abstract void compress();
-}
-
-
+} 
